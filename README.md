@@ -10,7 +10,7 @@ Feel free to use, modify or change it
 ## Status / Why is it Unfinished?
 
 
-### Unfinished / Will not be mantained until next notice
+### Unfinished / Will not be maintained until next notice
 
 
     1 - I spent around 7 months working on this project, Starting from April, around the 20th - to August 21
@@ -48,5 +48,25 @@ Feel free to use, modify or change it
      
 ## Functionality, or What works
 
+    Theoretically it can once entered an input find the IV of determined Pokemon from the start ( Not a 100 % Guarantee )
 
-    It can once entered an imput find the IV of
+    Theoretically it can once entered, find the exact frame those raw IV's were introduced
+
+    It can reverse engineer exact Pokemon stats, introduced by the user into raw IV's, by changing a few values
+
+## What will happen with this project?
+
+    For now, it'll be unmaintained, until I develop enough skills to continue fixing it, As I don't want to depend fully on any AI
+
+## Future Plans
+
+    Once done with this I'll focus on a EU4 Damage Calculator
+
+    After I'll work on a new improved version of the Calculator I built when I started
+
+
+## License
+
+
+Under the MIT License - Check License.md for more information 
+
