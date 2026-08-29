@@ -70,3 +70,5 @@ Feel free to use, modify or change it
 
 Under the MIT License - Check License.md for more information 
 
+Proudly, your Spanish/Romanian friendly neighbor, Raüh
+
